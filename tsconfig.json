@@ -6,6 +6,6 @@
     "moduleResolution": "node",
     "skipLibCheck": true,
     "esModuleInterop": true,
-    "types": ["@cloudflare/workers-types", "jest"]
-  },
+    "types": ["@cloudflare/workers-types"]
+  }
 }
